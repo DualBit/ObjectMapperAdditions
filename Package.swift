@@ -8,8 +8,8 @@ let objectMapperVersionStr = "3.5.1"
 let package = Package(
     name: "ObjectMapperAdditions",
     platforms: [
-        .iOS(.v8),
-        .tvOS(.v9),
+        .iOS(.v11),
+        .tvOS(.v10),
         .macOS(.v10_10),
         .watchOS(.v2),
     ],
